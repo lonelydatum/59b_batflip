@@ -10,7 +10,7 @@ gsap.defaults({
 const read = {
 	frame1:{},
 	frame2: 2.7, 
-	frame3: 2.7
+	frame3: 2.1
 }
 
 read.frame1[`PP-Batflip`] = 1.2
