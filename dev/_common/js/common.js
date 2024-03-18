@@ -83,7 +83,7 @@ function standard(frame1=sliderSlant){
 
 	
 
-	tl.add(fader(".frame3", read.frame3), "+=.3")
+	tl.add(fader(".frame3", read.frame3))
 	
 
 
